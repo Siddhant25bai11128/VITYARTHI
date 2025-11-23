@@ -15,16 +15,16 @@ Python 3.x (that's it!)
 
 ## How to use
 
-1. Save the code as tracker.py
+1. Save the code as financial_tracker.py
 2. Run it:
    bash
-   python tracker.py
+   financial_tracker.py
    
 3. Follow the menu options
 
 ## Customize it
 
-Open tracker.py and change these values:
+Open financial_tracker.py and change these values:
 
 **Monthly budget:**
 python
